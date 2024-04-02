@@ -1,3 +1,6 @@
+> [!NOTE]
+> Archived: Unfortunately I'm too busy to maintain this project, hopefully I can "revive" this project in the future, but for now it's official dead.
+
 <p align="center"><img src="https://i.imgur.com/NiqXaW2.png" width="250" height="250"></p>
 <h3 align="center">Skyblock Creator</h3>
 
